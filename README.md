@@ -27,6 +27,3 @@ flowchart TD
 
   H[Hall 边沿] --> I[ECAP ISR]
   I --> J[Motor_Ctrl 换相输出]
-git add README.md
-git commit -m "fix mermaid diagram"
-git push
